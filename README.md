@@ -1,6 +1,6 @@
 # Contraceptive-data-visualization
 
-This is a project of using Python (Pandas, Seaborn, etc.) for data visualizaiton of world wide contraceptive use among birth age women. Plase refer to the ipynb file.
+This is a project using Python (Pandas, Seaborn, etc.) for data visualizaiton of world wide contraceptive use among birth age women. Plase refer to the ipynb file.
 
 See the final product here: https://jyu-412.github.io/Contraceptive-data-visualization/ 
 
